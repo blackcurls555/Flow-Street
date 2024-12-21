@@ -1,0 +1,65 @@
+[
+    {
+        "nome": "Camiseta Ankh ArMy",
+        "preco": "R$109,90",
+        "imagem_frente": "img/catalogo/ankhArMy.png",
+        "imagem_costas": "img/catalogo/ankhArMy_costas.png",
+        "link": "ankhArmy.html"
+    },
+
+    {
+        "nome": "Camiseta Kebrada Boyz",
+        "preco": "R$90,00",
+        "imagem_frente": "img/catalogo/kebradaboyz.png",
+        "imagem_costas": "img/catalogo/kebradaboyz_costas.png",
+        "link": "kebradaboyz.html"
+    },
+
+    {
+        "nome": "Touca Haunter - SKIZITA",
+        "preco": "R$45,00",
+        "imagem_frente": "img/catalogo/toucahaunter.png",
+        "imagem_costas": "img/catalogo/toucahaunter_costas.png",
+        "link": "toucahaunter.html"
+    },
+
+    {
+        "nome": "Touca Gengar - SKIZITA",
+        "preco": "R$55,00",
+        "imagem_frente": "img/catalogo/toucagengar.png",
+        "imagem_costas": "img/catalogo/toucagengar_costas.png",
+        "link": "toucagengar.html"
+    },
+
+    {
+        "nome": "Jorts Super Baggy - Preto",
+        "preco": "R$130,00",
+        "imagem_frente": "img/catalogo/jortspreto1.webp",
+        "imagem_costas": "img/catalogo/jortspreto2.webp",
+        "link": "jortsSuperBaggy.html"
+    },
+
+    {
+        "nome": "Regata Canelada - Branco",
+        "preco": "R$59,99",
+        "imagem_frente": "img/catalogo/regatabranca1.webp",
+        "imagem_costas": "img/catalogo/regatabranca_costas.webp",
+        "link": "regatacanelada.html"
+    },
+
+    {
+        "nome": "Chaveiro Aurora",
+        "preco": "R$64,99",
+        "imagem_frente": "img/catalogo/chaveiroAurora1.webp",
+        "imagem_costas": "img/catalogo/chaveiroAurora2.webp",
+        "link": "chaveiroaurora.html"
+    },
+
+    {
+        "nome": "Cinto WAG HASAG",
+        "preco": "R$89,99",
+        "imagem_frente": "img/catalogo/cintoHasag1.webp",
+        "imagem_costas": "img/catalogo/cintoHasag2.webp",
+        "link": "cintowag.html"
+    }
+]
